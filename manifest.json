@@ -1,0 +1,21 @@
+{
+  "short_name": "FINA",
+  "name": "MY FINANCE – FINA",
+  "description": "An intelligent financial organizer with AI that combines financial control, goals, visual reports, and an AI assistant named FINA, focusing on clarity, lightness, and personalization.",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#f9fafb"
+}
